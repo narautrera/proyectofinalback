@@ -1,0 +1,74 @@
+body {background-color: #EAFAF1;
+background-image: url(imagenes/running.png);
+width: 100%;}
+header {background-color: yellow;
+opacity: 90%;
+padding: 4vh;
+margin: 3vw;
+border-radius: 10px;
+box-sizing: border-box;}
+.cuerpo {background-color: white;
+opacity: 80%;
+padding: 2vh;
+margin: 3vw;}
+h1 {color: black;
+font-size: 3rem;
+text-align: center;}
+h2 {color:black;
+font-size: 2rem;
+text-align: center;}
+h3 {color: black;
+font-size: 2.5rem;
+text-align: center;
+text-decoration: underline;}
+h4 {color: black;
+font-size: 1.5rem;
+font-style: italic;
+text-align: center;
+background-color: #E74C3C;}
+h5 {color: black;
+font-size: 1.2rem;
+font-style: italic;
+text-align: center;}
+h6 {color: black;
+font-size: 1rem;
+font-style: oblique;
+background-color:yellow; }
+section {box-sizing: border-box;
+margin: 2vw;
+padding: 5vw;
+display: flex;
+bottom: 30vw;}
+.carousel {border: none;}
+footer {background-color: yellow;
+opacity: 70%;
+padding: 4vh;
+clear: both;
+box-sizing: border-box;
+display: flex;}
+.icono {position:fixed;
+bottom: 1vw;
+right: 2vw;
+width: 70px;
+height: 70px;}
+.icono:hover {opacity: 60%;}
+label {font-size: 1.3rem;}
+.flex {display: flex;
+justify-content: space-around;}
+button {width: 13vw;
+font-size: 1.5rem;
+border: solid 0.3vw;}
+a {text-decoration: none;
+color: white;}
+input {background-color: black;
+opacity: 70%;
+color: white;}
+.duda {background-color: black;
+padding:2vw;
+color: white;
+opacity: 80%;
+font-size: 1.2rem;
+display: flex;
+justify-content: center;}
+form {display: flex;
+justify-content: center;}
